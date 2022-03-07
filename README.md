@@ -1,14 +1,12 @@
-# template
-template for pathology atlas repositories
+# amyloid
 
-see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
+## Crystal Violet
 
-```zsh
-vips dzsave HE.svs HE
-```
+Crystal violet stain of amyloid accumulation in vessel wall
 
-- [https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+
+- [https://pathologyatlas.github.io/amyloid/HE.html](https://pathologyatlas.github.io/amyloid/HE.html)
 
 - See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" width="100%" height="400px"></iframe>
+<iframe src="https://pathologyatlas.github.io/amyloid/HE.html" width="100%" height="400px"></iframe>
